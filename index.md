@@ -10,7 +10,7 @@ tagline: Supporting tagline
 
 My name is wish. Talk is cheap ,show me the code is my motto. Come on :).
 
-### What i want to do 
+### What I want to do 
 
 Just want to record what I'm doing and thinking in my life.
 
