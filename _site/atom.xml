@@ -1,42 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap</title>
- <link href="http://username.github.io/atom.xml" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2018-11-10T14:02:24+08:00</updated>
- <id>http://username.github.io</id>
+ <title>Wishyong</title>
+ <link href="http://wishyong.github.io/atom.xml" rel="self"/>
+ <link href="http://wishyong.github.io"/>
+ <updated>2018-11-10T15:29:38+08:00</updated>
+ <id>http://wishyong.github.io</id>
  <author>
-   <name>Name Lastname</name>
-   <email>blah@email.test</email>
+   <name>Wish</name>
+   <email>yiyuanlv@126.com</email>
  </author>
 
  
  <entry>
-   <title>Hello World</title>
-   <link href="http://username.github.io/2018/11/10/hello-world"/>
+   <title>The reason to build this blog</title>
+   <link href="http://wishyong.github.io/first/2018/11/10/the-reason-to-build-this-blog"/>
    <updated>2018-11-10T00:00:00+08:00</updated>
-   <id>http://username.github.io/2018/11/10/hello-world</id>
+   <id>http://wishyong.github.io/first/2018/11/10/the-reason-to-build-this-blog</id>
    <content type="html">
-&lt;h3 id=&quot;this-is-an-test&quot;&gt;This is an test&lt;/h3&gt;
+&lt;h3 id=&quot;why-i-build-this-blog&quot;&gt;Why I build this blog&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;My major is software engineering , and I was a student  in famous University for 7 years,but I don’t have my personal blog,which means that  I don’t like do practice . So I want to encoure myself to do more practice .&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I worked at Netease as a DBA for 4 years and wrote many wikis in the inner teams. These wikis mostly about how to solve the MySQL and MongoDB problem and some basic DB basics. Now I join the Tencent , I am still poor at writing code .I want to let this blog to record what i am learning code in the next 4 years.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I just want to give myself the power. It’s not easy to keep on doing the same thing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;pre&gt;&lt;code&gt;package main
-
-import &quot;fmt&quot;
-
-func main() {
-	fmt.Println(&quot;Hello World&quot;)
-}
-
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&quot;expectation&quot;&gt;Expectation&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Writing the blog by english.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More code ,less description.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 </content>
  </entry>
  
  <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://wishyong.github.io/lessons/2011/12/29/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00+08:00</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://wishyong.github.io/lessons/2011/12/29/jekyll-introduction</id>
    <content type="html">
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
